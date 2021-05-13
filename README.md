@@ -1,1 +1,1 @@
-# Blackjack-Simulation-and-e2lol-speak
+# e2lol-speak
